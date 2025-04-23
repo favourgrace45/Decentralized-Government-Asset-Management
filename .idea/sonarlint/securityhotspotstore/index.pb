@@ -13,3 +13,7 @@ J
 contracts/disposition.clar,a/f/afa40bf0faf2d42cdee95bdf4da15157e3f3fc83
 U
 %contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
+T
+$tests/maintenance-scheduling.test.ts,a/d/adeaaa7ee161d125c6a79c3d78c40688f3a402a4
+I
+tests/disposition.test.ts,5/1/513ea3c26ed54c2b8ca8ed208639722b0a8b0339
