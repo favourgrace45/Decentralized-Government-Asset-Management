@@ -9,3 +9,7 @@ S
 #contracts/condition-assessment.clar,7/4/74d9b5e84b3025553b656fe98eb96e29e6ee03b3
 R
 "tests/condition-assessment.test.ts,b/b/bb566a4a3ed794932ca01cd8d633a93079ff3543
+J
+contracts/disposition.clar,a/f/afa40bf0faf2d42cdee95bdf4da15157e3f3fc83
+U
+%contracts/maintenance-scheduling.clar,f/7/f75564e007197f104115c4551443027923af5a64
